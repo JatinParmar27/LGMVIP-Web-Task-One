@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Here is the link of hosted Project : https://lgmvip-web-task-one.vercel.app/
+Here is the link to the hosted Project: https://lgmvip-web-task-one.vercel.app/
 
 ## Available Scripts
 
